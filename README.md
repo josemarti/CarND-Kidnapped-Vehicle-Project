@@ -12,9 +12,9 @@ The code compiles without errors with cmake and make.
 
 The particle filter passes the current grading code in the simulator. The things the grading code is looking for are:
 
-    Accuracy: the particle filter localizes vehicle position and yaw to within the values specified in the parameters max_translation_error and max_yaw_error in src/main.cpp.
+ Accuracy: the particle filter localizes vehicle position and yaw to within the values specified in the parameters max_translation_error and max_yaw_error in src/main.cpp.
 
-    Performance: the particle filter completes execution within the time of 100 seconds.
+ Performance: the particle filter completes execution within the time of 100 seconds.
 
 ![input 1 results](plot1.png)
 
